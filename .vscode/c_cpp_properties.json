@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "nxxm config",
+            "compileCommands": "c:\\Users\\LENOVO\\Desktop\\django\\django\\build\\windows\\bin\\compile_commands.json",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
